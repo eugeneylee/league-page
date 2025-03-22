@@ -50,6 +50,7 @@ export const managers = [
   {
     "roster": 2,
     "name": "Eugene",
+    "managerID": "952770528836714496",
     "tookOver": 2020,
     "location": "Boston",
     "bio": "Lorem ipsum...",
